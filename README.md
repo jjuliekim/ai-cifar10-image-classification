@@ -1,3 +1,1 @@
-# ai_image_classification
-
-CIFAR-10 Dataset
+## CIFAR-10 Dataset
